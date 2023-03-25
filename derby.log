@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Mar 22 10:09:55 HST 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0187-0af1-3f12-000005a434d8 
+on database directory /Users/sheryltania/Documents/BYUH/Winter 2023/CS 490R/Heatmap/layoffs with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/opt/Apache/db-derby-10.14.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_301-b09
+user.dir=/Users/sheryltania/Documents/BYUH/Winter 2023/CS 490R/Heatmap
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.16
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
